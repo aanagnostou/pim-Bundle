@@ -1,0 +1,7 @@
+#
+# 
+parameters:
+    # Choose dataset
+    #installer_data: 'AncotelInstallerBundle:mydataset'
+    installer_data: 'AncotelInstallerBundle:mydatasetAdvanced'
+    
